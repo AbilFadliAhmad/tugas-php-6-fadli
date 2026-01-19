@@ -6,5 +6,5 @@
             echo "Tidak Lulus";
         }
     }
-    cekKelulusan(75)
+    cekKelulusan(74)
 ?>
